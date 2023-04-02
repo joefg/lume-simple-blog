@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-name.website/posts/example/</loc>
+    <lastmod>2023-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://your-name.website/posts/this-theme/</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://your-name.website/404.html</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://your-name.website/</loc>
+    <lastmod>2023-04-02</lastmod>
+  </url>
+</urlset>
