@@ -1,0 +1,18 @@
+title: lume-simple-blog
+
+description: A simple Lume blog template.
+
+blurb: |
+  A simple Lume blog template
+
+repo: https://github.com/joefg/lume-simple-blog
+
+author:
+  name: you
+  email: you@example.com
+
+github: https://github.com/ghost
+
+links:
+  lume: https://lume.land/
+  Simple.css: https://simplecss.org/
