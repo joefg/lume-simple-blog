@@ -24,7 +24,29 @@ and push.
 2. Run `deno task build`.
 3. Add changes including generated HTML in `docs/`, and commit. The generated HTML
 and the source Markdown must be in the same commit.
-4. Rebase onto `master` or `main`, whichever your mainline branch is.
+4. Rebase onto `main`.
+
+### New pages
+
+0. Checkout to a new `page` branch, eg `post/your-new-page`.
+1. Add page the root of this directory, eg `page.md`.
+2. Add the following YAML header to your new page:
+
+```yaml
+---
+layout: layout/post.njk
+title: Your Page
+templateClass: tmpl-post
+menu:
+    visible: true
+    order: 2
+---
+```
+
+3. Run `deno task build`.
+4. Add changes including generated HTML in `docs/`, and commit. The generated HTML
+and the source Markdown must be in the same commit.
+5. Rebase onto `main`.
 
 ## Technology Used
 
