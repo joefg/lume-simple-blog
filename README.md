@@ -1,6 +1,6 @@
 # lume-simple-blog
 
-A `lume` template for building a blog. It powers [jfg.name](https://jfg.name)!
+A `lume` template for building a blog.
 
 ## How To Use It
 
