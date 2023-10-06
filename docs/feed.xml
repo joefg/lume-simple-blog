@@ -3,20 +3,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>lume-simple-blog</title>
 	<subtitle>A simple Lume blog template.</subtitle>
-	<link href="https://your-name.website/feed.xml" rel="self"/>
-	<link href="https://your-name.website/"/>
+	<link href="https://your-name.website/lume-simple-blog/feed.xml" rel="self"/>
+	<link href="https://your-name.website/lume-simple-blog/"/>
 	
 	<updated>2023-04-02T18:08:09+01:00</updated>
-	<id>https://your-name.website/</id>
+	<id>https://your-name.website/lume-simple-blog/</id>
 	<author>
 		<name>you</name>
 		<email>you@example.com</email>
 	</author>
 	<entry>
 		<title>This Is A Lume Blog Template</title>
-		<link href="https://your-name.website/posts/this-theme/"/>
+		<link href="https://your-name.website/lume-simple-blog/posts/this-theme/"/>
 		<updated>2023-04-02T01:00:00+01:00</updated>
-		<id>https://your-name.website/posts/this-theme/</id>
+		<id>https://your-name.website/lume-simple-blog/posts/this-theme/</id>
 		<content type="html">&lt;p&gt;I&#39;m releasing this blog template for free. I use it personally for &lt;a href=&quot;https://jfg.name/&quot;&gt;jfg.name&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;How To Use It&lt;/h2&gt;
 &lt;ol start=&quot;0&quot;&gt;
@@ -34,9 +34,9 @@ and push.&lt;/li&gt;
 	</entry>
 	<entry>
 		<title>Example Post</title>
-		<link href="https://your-name.website/posts/example/"/>
+		<link href="https://your-name.website/lume-simple-blog/posts/example/"/>
 		<updated>2023-04-01T01:00:00+01:00</updated>
-		<id>https://your-name.website/posts/example/</id>
+		<id>https://your-name.website/lume-simple-blog/posts/example/</id>
 		<content type="html">&lt;h2&gt;Solvere clamatque bracchiaque tu in inter formae&lt;/h2&gt;
 &lt;p&gt;Lorem markdownum infelix; meo et ille alii, illa adhuc Tirynthius hostem iterum
 securibus clara. Ictu mariti tibi umidus &lt;strong&gt;opem&lt;/strong&gt; moenia fidem tunc levibus

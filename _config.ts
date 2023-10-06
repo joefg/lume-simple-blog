@@ -7,7 +7,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import resolveUrls from "lume/plugins/resolve_urls.ts";
 
 const site = lume({
-  location: new URL("https://your-name.website/"),
+  location: new URL("https://your-name.website/lume-simple-blog"),
 });
 
 site

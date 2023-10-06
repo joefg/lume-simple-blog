@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-name.website/posts/example/</loc>
+    <loc>https://your-name.website/lume-simple-blog/posts/example/</loc>
     <lastmod>2023-04-01</lastmod>
   </url>
   <url>
-    <loc>https://your-name.website/posts/this-theme/</loc>
+    <loc>https://your-name.website/lume-simple-blog/posts/this-theme/</loc>
     <lastmod>2023-04-02</lastmod>
   </url>
   <url>
-    <loc>https://your-name.website/404.html</loc>
+    <loc>https://your-name.website/lume-simple-blog/404.html</loc>
     <lastmod>2023-04-02</lastmod>
   </url>
   <url>
-    <loc>https://your-name.website/</loc>
+    <loc>https://your-name.website/lume-simple-blog/</loc>
     <lastmod>2023-04-02</lastmod>
   </url>
 </urlset>
