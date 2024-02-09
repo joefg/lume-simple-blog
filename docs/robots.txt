@@ -1,3 +1,4 @@
 User-agent: *
+Allow: /
 
 Sitemap: https://your-name.website/lume-simple-blog/sitemap.xml
