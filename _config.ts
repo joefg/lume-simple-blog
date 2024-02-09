@@ -1,5 +1,6 @@
 import lume from "lume/mod.ts";
 import date from "lume/plugins/date.ts";
+import nunjucks from "lume/plugins/nunjucks.ts";
 import postcss from "lume/plugins/postcss.ts";
 import codeHighlight from "lume/plugins/code_highlight.ts";
 import basePath from "lume/plugins/base_path.ts";
@@ -17,6 +18,7 @@ site
   .copy("CNAME")
   .use(postcss())
   .use(date())
+  .use(nunjucks())
   .use(codeHighlight())
   .use(basePath())
   .use(slugifyUrls({ alphanumeric: false }))
