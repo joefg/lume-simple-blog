@@ -7,6 +7,8 @@ blurb: |
 
 repo: https://github.com/joefg/lume-simple-blog
 
+mugshot: /img/lume.webp
+
 author:
   name: you
   email: you@example.com
