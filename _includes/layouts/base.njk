@@ -12,6 +12,10 @@
   </head>
   <body>
     <header>
+      {%- if site.mugshot -%}
+        <br/>
+        <img src="{{ site.mugshot }}" width="100px"/>
+      {%- endif -%}
       <h1>{{ site.title }}</h1>
       <p>{{ site.blurb }}</p>
       <nav>
