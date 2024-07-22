@@ -2,6 +2,7 @@
 title: This Is A Lume Blog Template
 description: Releasing my template for free
 date: 2023-04-02
+location: Isle of Wight
 ---
 
 I'm releasing this blog template for free. I use it personally for [jfg.name](https://jfg.name).
