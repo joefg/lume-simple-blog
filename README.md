@@ -52,6 +52,17 @@ This includes a working GitHub Pages workflow by default. Just look inside
 `.github/workflows/publish.yaml`, which runs on push to main. It checks out to
 main, compiles the site, and publishes it to GitHub pages.
 
+## Customisation
+
+Stick any CSS into `styles.css` after the imports. For example, if you want the
+font to be smaller, add this:
+
+```
+:root {
+	font-size: 14px;
+}
+```
+
 ## Technology Used
 
 * [deno](https://deno.land)
