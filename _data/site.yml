@@ -1,11 +1,5 @@
 title: lume-simple-blog
-
 description: A simple Lume blog template.
-
-blurb: |
-  A simple Lume blog template
-
-mugshot: /img/lume.webp
 
 author:
   name: you
@@ -13,8 +7,16 @@ author:
 
 github: https://github.com/ghost
 
-repo: https://github.com/joefg/lume-simple-blog
+header:
+  title: lume-simple-blog
+  blurb: A simple Lume blog template
+  mugshot: /img/lume.webp
+  links:
+    lume: https://lume.land/
+    Simple.css: https://simplecss.org/
 
-links:
-  lume: https://lume.land/
-  Simple.css: https://simplecss.org/
+footer:
+  text: Built with deno, lume, and Simple.css.
+  repo: https://github.com/joefg/lume-simple-blog
+  links:
+    About: /
